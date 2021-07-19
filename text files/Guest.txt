@@ -1,0 +1,4 @@
+counter= 6
+guest_count= 5
+overall= 6.66667
+previous= 16
